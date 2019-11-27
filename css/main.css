@@ -216,6 +216,10 @@ body article#cv > div#content > section#tools {
   padding: 20px;
 }
 
+body article#cv > div#content > section#tools > ul {
+  margin-bottom: 20px;
+}
+
 body article#cv > div#content > section > h2 {
   color: #545E6C;
   line-height: 1.75;
